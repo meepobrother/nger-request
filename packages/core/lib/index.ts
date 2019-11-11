@@ -1,6 +1,6 @@
 export class NgerCoreRequest { }
 export class NgerCoreResponse { }
+export class NgerCoreInjector { }
 export class NgerCoreContext {
-    req: NgerCoreRequest;
-    res: NgerCoreResponse;
+    injector: NgerCoreInjector;
 }
