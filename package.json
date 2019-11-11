@@ -1,0 +1,8 @@
+{
+	"name": "@nger/request",
+	"version": "0.0.1",
+	"private": false,
+	"devDependencies": {
+		"lerna": "^3.13.1"
+	}
+}
